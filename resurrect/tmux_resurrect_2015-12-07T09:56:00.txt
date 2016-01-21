@@ -1,0 +1,8 @@
+pane	0	1	:vim	1	:*	1	:/Users/rlaney	0	ssh	:ssh virl@virl
+pane	0	1	:vim	1	:*	2	:/Users/rlaney	1	ssh	:ssh compute02
+pane	0	2	:~	0	:-	1	:/Users/rlaney	1	zsh	:
+pane	0	3	:~	0	:	1	:/Users/rlaney	1	ssh	:ssh ns1
+window	0	1	1	:*	50fb,238x58,0,0{119x58,0,0,0,118x58,120,0,7}
+window	0	2	0	:-	d162,238x58,0,0,5
+window	0	3	0	:	d163,238x58,0,0,6
+state	0	

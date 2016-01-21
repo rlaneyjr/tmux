@@ -1,0 +1,5 @@
+pane	0	1	:vim	0	:-	1	:	1	zsh	:sudo vim /System/Library/LaunchAgents/org.openbsd.ssh-agent.plist
+pane	0	2	:~/.keychain	1	:*	1	:/Users/rlaney/.keychain	1	zsh	:
+window	0	1	0	:-	d15d,238x58,0,0,0
+window	0	2	1	:*	d15e,238x58,0,0,1
+state	0	

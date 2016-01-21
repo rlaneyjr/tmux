@@ -1,0 +1,5 @@
+pane	0	1	:ssh	0	:-	1	:/Users/rlaney	1	ssh	:ssh virl
+pane	0	2	:ssh	1	:*	1	:/Users/rlaney	1	ssh	:ssh ubuntu@10.2.1.104
+window	0	1	0	:-	d15d,238x58,0,0,0
+window	0	2	1	:*	d15e,238x58,0,0,1
+state	0	

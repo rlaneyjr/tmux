@@ -1,0 +1,5 @@
+pane	0	1	:[tmux]	1	:*	1	:/Users/rlaney	1	zsh	:
+pane	0	2	:Vim	0	:-	1	:/Users/rlaney	1	Vim	:/usr/local/Cellar/macvim/7.4-93/MacVim.app/Contents/MacOS/Vim temp/brew-completions
+window	0	1	1	:*	d03d,178x48,0,0,0
+window	0	2	0	:-	d03e,178x48,0,0,1
+state	0	

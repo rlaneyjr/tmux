@@ -1,0 +1,5 @@
+pane	0	1	:~	1	:*	1	:/Users/rlaney	1	ssh	:ssh virl@10.0.23.10
+pane	0	2	:~	0	:-	1	:/Users/rlaney	1	zsh	:
+window	0	1	1	:*	d03f,178x48,0,0,2
+window	0	2	0	:-	d040,178x48,0,0,3
+state	0	

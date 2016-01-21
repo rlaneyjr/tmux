@@ -1,0 +1,5 @@
+pane	1	1	:ssh	0	:-	1	:/Users/rlaney	1	ssh	:ssh ubu
+pane	1	2	:ssh	1	:*	1	:/Users/rlaney	1	ssh	:ssh sw2
+window	1	1	0	:-	d15f,238x58,0,0,2
+window	1	2	1	:*	d160,238x58,0,0,3
+state	1	

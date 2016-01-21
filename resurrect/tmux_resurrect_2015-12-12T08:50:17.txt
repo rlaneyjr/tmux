@@ -1,0 +1,6 @@
+pane	0	1	:/etc/glance	1	:*	1	:/Users/rlaney	1	ssh	:ssh virl
+pane	0	1	:/etc/glance	1	:*	2	:/Users/rlaney	0	ssh	:ssh virl
+pane	0	2	:~	0	:-	1	:/Users/rlaney	1	zsh	:
+window	0	1	1	:*	50f9,238x58,0,0{119x58,0,0,0,118x58,120,0,3}
+window	0	2	0	:-	d15f,238x58,0,0,2
+state	0	

@@ -1,0 +1,4 @@
+pane	0	1	:ssh	1	:*	1	:/Users/rlaney	1	ssh	:ssh sw1
+pane	0	1	:ssh	1	:*	2	:/Users/rlaney	0	ssh	:ssh sw2
+window	0	1	1	:*	d102,238x58,0,0{119x58,0,0,7,118x58,120,0,8}
+state	0	
