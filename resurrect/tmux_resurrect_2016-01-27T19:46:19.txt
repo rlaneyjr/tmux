@@ -1,0 +1,5 @@
+pane	2	1	:zsh	0	:-	1	:/Users/rlaney	1	zsh	:
+pane	2	2	:zsh	1	:*	1	:/Users/rlaney/cheaters/cheaters/cheatsheets/riverbed-tshoot-html	1	zsh	:
+window	2	1	0	:-	d040,178x48,0,0,3
+window	2	2	1	:*	d041,178x48,0,0,4
+state	2	

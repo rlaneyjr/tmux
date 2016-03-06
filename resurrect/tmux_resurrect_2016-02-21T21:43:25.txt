@@ -1,0 +1,12 @@
+pane	cloudoff	1	:compute	1	:*	1	:/Users/rlaney	1	zsh	:/System/Library/Frameworks/Ruby.framework/Versions/Current/usr/bin/ruby -W0 /usr/local/Library/brew.rb --prefix nvm
+pane	cloudoff	1	:compute	1	:*	2	:/Users/rlaney	0	zsh	:/System/Library/Frameworks/Ruby.framework/Versions/Current/usr/bin/ruby -W0 /usr/local/Library/brew.rb --prefix nvm
+pane	cloudoff	1	:compute	1	:*	3	:/Users/rlaney	0	zsh	:/System/Library/Frameworks/Ruby.framework/Versions/Current/usr/bin/ruby -W0 /usr/local/Library/brew.rb --prefix nvm
+pane	cloudoff	2	:ContNetBlock	0	:	1	:/Users/rlaney	1	zsh	:/System/Library/Frameworks/Ruby.framework/Versions/Current/usr/bin/ruby -W0 /usr/local/Library/brew.rb --prefix nvm
+pane	cloudoff	2	:ContNetBlock	0	:	2	:/Users/rlaney	0	zsh	:/System/Library/Frameworks/Ruby.framework/Versions/Current/usr/bin/ruby -W0 /usr/local/Library/brew.rb --prefix nvm
+pane	cloudoff	2	:ContNetBlock	0	:	3	:/Users/rlaney	0	zsh	:/System/Library/Frameworks/Ruby.framework/Versions/Current/usr/bin/ruby -W0 /usr/local/Library/brew.rb --prefix nvm
+pane	cloudoff	3	:Other	0	:-	1	:/Users/rlaney	1	zsh	:(ruby)
+pane	cloudoff	3	:Other	0	:-	2	:/Users/rlaney	0	zsh	:/System/Library/Frameworks/Ruby.framework/Versions/Current/usr/bin/ruby -W0 /usr/local/Library/brew.rb --prefix nvm
+window	cloudoff	1	1	:*	6415,238x58,0,0[238x18,0,0,15,238x18,0,19,18,238x20,0,38,19]
+window	cloudoff	2	0	:	240c,238x58,0,0[238x18,0,0,16,238x18,0,19,20,238x20,0,38,21]
+window	cloudoff	3	0	:-	1502,238x58,0,0[238x28,0,0,17,238x29,0,29,22]
+state	cloudoff	

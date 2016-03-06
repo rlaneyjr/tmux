@@ -1,0 +1,5 @@
+pane	0	1	:mongo	0	:-	1	:/Users/rlaney/DB	1	mongo	:mongo
+pane	0	2	:ssh	1	:*	1	:/Users/rlaney/DB/dc4-poller/nmis	1	ssh	:ssh dc4-p
+window	0	1	0	:-	d15d,238x58,0,0,0
+window	0	2	1	:*	d15e,238x58,0,0,1
+state	0	

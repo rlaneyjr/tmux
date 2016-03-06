@@ -1,0 +1,3 @@
+pane	0	1	:Vim	1	:*	1	:/Users/rlaney/Projects/Code/NetworkAutomate	1	Vim	:/usr/local/Cellar/macvim/7.4-97/MacVim.app/Contents/MacOS/Vim CheckPoint.txt
+window	0	1	1	:*	d03d,178x48,0,0,0
+state	0	

@@ -1,0 +1,6 @@
+pane	0	1	:ssh	0	:-	1	:/Users/rlaney	1	ssh	:ssh virl
+pane	0	2	:tclsh8.6	1	:*	1	:/Users/rlaney/scripts/autoexpect	1	tclsh8.6	:tclsh /usr/local/bin/autoexpect
+pane	0	2	:tclsh8.6	1	:*	2	:/Users/rlaney	0	Vim	:/usr/local/Cellar/macvim/7.4-95/MacVim.app/Contents/MacOS/Vim .ssh/cisco_config
+window	0	1	0	:-	d15d,238x58,0,0,0
+window	0	2	1	:*	50ef,238x58,0,0{119x58,0,0,4,118x58,120,0,7}
+state	0	

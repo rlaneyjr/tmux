@@ -1,0 +1,7 @@
+pane	0	1	:Vim	1	:*	1	:/Users/rlaney/cheaters/cheaters/cheatsheets/MayccollUtils	1	Vim	:/usr/local/Cellar/macvim/7.4-95/MacVim.app/Contents/MacOS/Vim tree.nfo
+pane	0	2	:zsh	0	:-	1	:/Users/rlaney	1	zsh	:
+pane	0	3	:zsh	0	:	1	:/Users/rlaney	1	zsh	:
+window	0	1	1	:*	d15d,238x58,0,0,0
+window	0	2	0	:-	d15f,238x58,0,0,2
+window	0	3	0	:	d161,238x58,0,0,4
+state	0	

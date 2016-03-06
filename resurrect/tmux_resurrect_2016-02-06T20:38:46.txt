@@ -1,0 +1,14 @@
+pane	0	1	:zsh	1	:*	1	:/Users/rlaney	1	zsh	:
+pane	cloudoff	1	:compute	0	:!	1	:/Users/rlaney	1	zsh	:
+pane	cloudoff	1	:compute	0	:!	2	:/Users/rlaney	0	zsh	:
+pane	cloudoff	1	:compute	0	:!	3	:/Users/rlaney	0	zsh	:
+pane	cloudoff	2	:ContNetBlock	0	:!-	1	:/Users/rlaney	1	zsh	:
+pane	cloudoff	2	:ContNetBlock	0	:!-	2	:/Users/rlaney	0	zsh	:
+pane	cloudoff	2	:ContNetBlock	0	:!-	3	:/Users/rlaney	0	zsh	:
+pane	cloudoff	3	:Other	1	:*	1	:/Users/rlaney	1	ssh	:ssh 10.0.22.80
+pane	cloudoff	3	:Other	1	:*	2	:/Users/rlaney	0	ssh	:ssh 10.0.22.90
+window	0	1	1	:*	d15d,238x58,0,0,0
+window	cloudoff	1	0	:!	4156,238x58,0,0[238x19,0,0,2,238x18,0,20,5,238x19,0,39,6]
+window	cloudoff	2	0	:!-	4163,238x58,0,0[238x19,0,0,3,238x18,0,20,7,238x19,0,39,8]
+window	cloudoff	3	1	:*	9418,238x58,0,0[238x29,0,0,4,238x28,0,30,9]
+state	cloudoff	0

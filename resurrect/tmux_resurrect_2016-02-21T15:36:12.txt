@@ -1,0 +1,6 @@
+pane	0	1	:ssh	1	:*	1	:/Users/rlaney/Documents/icloudmon	0	Vim	:/usr/local/Cellar/macvim/7.4-95/MacVim.app/Contents/MacOS/Vim cloudmon-sw1.conf
+pane	0	1	:ssh	1	:*	2	:/Users/rlaney/scripts/autoexpect	1	ssh	:ssh ns1
+pane	0	2	:ssh	0	:-	1	:/Users/rlaney	1	ssh	:ssh fed
+window	0	1	1	:*	e9f1,238x58,0,0{119x58,0,0,10,118x58,120,0,12}
+window	0	2	0	:-	d164,238x58,0,0,7
+state	0	

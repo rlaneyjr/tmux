@@ -1,0 +1,5 @@
+pane	0	1	:zsh	1	:*	1	:	1	zsh	:sudo vim /etc/ssh_config
+pane	0	2	:zsh	0	:-	1	:/Users/rlaney	1	zsh	:
+window	0	1	1	:*	d162,238x58,0,0,5
+window	0	2	0	:-	d161,238x58,0,0,4
+state	0	

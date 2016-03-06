@@ -1,0 +1,5 @@
+pane	0	1	:Python	1	:*	1	:/Users/rlaney/Projects/het-ansible	1	Python	:/usr/bin/python /usr/local/Cellar/ansible/2.0.0.2/libexec/bin/ansible-playbook -i inventory snmp_facts-playbook.yml
+pane	0	2	:Vim	0	:-	1	:/Users/rlaney/Projects/het-ansible	1	Vim	:/usr/local/Cellar/macvim/7.4-97/MacVim.app/Contents/MacOS/Vim snmp_facts-playbook.yml
+window	0	1	1	:*	d15d,238x58,0,0,0
+window	0	2	0	:-	d15e,238x58,0,0,1
+state	0	

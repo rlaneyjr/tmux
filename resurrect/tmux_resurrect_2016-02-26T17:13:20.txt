@@ -1,0 +1,7 @@
+pane	0	1	:zsh	0	:	1	:/Users/rlaney/Projects	1	zsh	:
+pane	0	2	:Vim	0	:-	1	:/Users/rlaney/Projects	1	Vim	:/usr/local/Cellar/macvim/7.4-97/MacVim.app/Contents/MacOS/Vim mysnmp.py
+pane	0	3	:ssh	1	:*	1	:/Users/rlaney/Projects	1	ssh	:ssh dc4-poller
+window	0	1	0	:	d15d,238x58,0,0,0
+window	0	2	0	:-	d15e,238x58,0,0,1
+window	0	3	1	:*	d15f,238x58,0,0,2
+state	0	

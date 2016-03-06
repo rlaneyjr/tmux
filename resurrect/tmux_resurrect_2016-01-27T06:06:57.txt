@@ -1,0 +1,3 @@
+pane	0	1	:zsh	1	:*	1	:/Users/rlaney/DB/sqlite	1	zsh	:
+window	0	1	1	:*	d15d,238x58,0,0,0
+state	0	
