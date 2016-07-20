@@ -1,7 +1,0 @@
-pane	0	1	:Vim	0	:-	1	:/Users/rlaney/Projects/pynet/learnpy_ecourse/class5	1	Vim	:/usr/local/Cellar/macvim/7.4-97/MacVim.app/Contents/MacOS/Vim ex1_cdp_parsing.py
-pane	0	1	:Vim	0	:-	2	:/Users/rlaney/Projects/pynet/learnpy_ecourse/class5	0	Vim	:/usr/local/Cellar/macvim/7.4-97/MacVim.app/Contents/MacOS/Vim cdp_data.py
-pane	0	2	:Python	1	:*	1	:/Users/rlaney/Projects/pynet/learnpy_ecourse/class5	0	Vim	:/usr/local/Cellar/macvim/7.4-97/MacVim.app/Contents/MacOS/Vim myparser.py
-pane	0	2	:Python	1	:*	2	:/Users/rlaney/Projects/pynet/learnpy_ecourse/class5	1	Python	:/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python
-window	0	1	0	:-	d954,178x48,0,0{89x48,0,0,0,88x48,90,0,3}
-window	0	2	1	:*	5959,178x48,0,0{89x48,0,0,1,88x48,90,0,4}
-state	0	

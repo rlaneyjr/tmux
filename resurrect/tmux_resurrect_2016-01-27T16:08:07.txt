@@ -1,5 +1,0 @@
-pane	2	1	:ssh	0	:-	1	:/Users/rlaney	1	ssh	:ssh ubu
-pane	2	2	:Vim	1	:*	1	:/Users/rlaney/cheaters/cheaters/cheatsheets/riverbed-tshoot-html	1	Vim	:/usr/local/Cellar/macvim/7.4-94/MacVim.app/Contents/MacOS/Vim book.html
-window	2	1	0	:-	d160,238x58,0,0,3
-window	2	2	1	:*	d161,238x58,0,0,4
-state	2	

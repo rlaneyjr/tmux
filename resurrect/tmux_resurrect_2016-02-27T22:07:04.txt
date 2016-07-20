@@ -1,3 +1,0 @@
-pane	0	1	:Vim	1	:*	1	:/Users/rlaney/Projects/Code/NetworkAutomate/ansible-cisco-snmp-master	1	Vim	:/usr/local/Cellar/macvim/7.4-97/MacVim.app/Contents/MacOS/Vim library/cisco_snmp_copy_config.py
-window	0	1	1	:*	d15d,238x58,0,0,0
-state	0	

@@ -1,7 +1,0 @@
-pane	0	1	:~	0	:	1	:/Users/rlaney	1	ssh	:ssh controller01
-pane	0	2	:~	0	:-	1	:/Users/rlaney	1	ssh	:ssh ns1
-pane	0	3	:~/Applications	1	:*	1	:/Users/rlaney/.bin	1	ssh	:ssh 10.0.22.23
-window	0	1	0	:	d15d,238x58,0,0,0
-window	0	2	0	:-	d15e,238x58,0,0,1
-window	0	3	1	:*	d15f,238x58,0,0,2
-state	0	

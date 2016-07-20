@@ -1,5 +1,0 @@
-pane	0	1	:zsh	0	:-	1	:	1	zsh	:less
-pane	0	2	:ssh	1	:*	1	:/	1	ssh	:ssh sc9-p
-window	0	1	0	:-	d15d,238x58,0,0,0
-window	0	2	1	:*	d15e,238x58,0,0,1
-state	0	

@@ -1,3 +1,0 @@
-pane	0	1	:mongo	1	:*	1	:/Users/rlaney/DB/mongodb	1	mongo	:mongo
-window	0	1	1	:*	d03d,178x48,0,0,0
-state	0	

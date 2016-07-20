@@ -1,7 +1,0 @@
-pane	0	1	:Vim	0	:	1	:/Users/rlaney/cheaters/cheaters/cheatsheets/PacketLife	1	Vim	:/usr/local/Cellar/macvim/7.4-94/MacVim.app/Contents/MacOS/Vim
-pane	0	2	:zsh	0	:-	1	:/Users/rlaney/.vim	1	zsh	:
-pane	0	3	:zsh	1	:*	1	:/Users/rlaney/scripts	1	zsh	:
-window	0	1	0	:	d03f,178x48,0,0,2
-window	0	2	0	:-	d042,178x48,0,0,5
-window	0	3	1	:*	d043,178x48,0,0,6
-state	0	

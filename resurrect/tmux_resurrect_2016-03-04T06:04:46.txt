@@ -1,5 +1,0 @@
-pane	0	1	:zsh	0	:-	1	:/Users/rlaney	1	zsh	:
-pane	0	2	:zsh	1	:*	1	:/Users/rlaney/.virtualenvs	1	Python	:/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python -m virtualenvwrapper.hook_loader --script /var/folders/mg/m38dm24575n9hb7z24q3_d6r0000gn/T/virtualenvwrapper-initialize-hook-XXXXXXXXXX.yy1SJxr7 initialize
-window	0	1	0	:-	d15d,238x58,0,0,0
-window	0	2	1	:*	d15e,238x58,0,0,1
-state	0	

@@ -1,7 +1,0 @@
-pane	0	1	:ssh	0	:-	1	:/Users/rlaney	1	ssh	:ssh dc4-p
-pane	0	2	:Vim	1	:*	1	:/Users/rlaney/Dropbox (Hearst Corporation)/Transfers	1	Vim	:/usr/local/Cellar/macvim/7.4-97/MacVim.app/Contents/MacOS/Vim htvALL.txt
-pane	0	3	:Vim	0	:	1	:/Users/rlaney/cheaters/cheaters/cheatsheets	1	Vim	:/usr/local/Cellar/macvim/7.4-97/MacVim.app/Contents/MacOS/Vim mongodb.html
-window	0	1	0	:-	d15d,238x58,0,0,0
-window	0	2	1	:*	d15f,238x58,0,0,2
-window	0	3	0	:	d160,238x58,0,0,3
-state	0	

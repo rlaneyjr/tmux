@@ -1,8 +1,0 @@
-pane	0	1	:ssh	1	:*	1	:/Users/rlaney	1	ssh	:ssh ns2
-pane	0	2	:ssh	0	:	1	:/Users/rlaney	0	ssh	:ssh sw1
-pane	0	2	:ssh	0	:	2	:/Users/rlaney	1	ssh	:ssh sw2
-pane	0	3	:zsh	0	:-	1	:/Users/rlaney	1	zsh	:
-window	0	1	1	:*	d03d,178x48,0,0,0
-window	0	2	0	:	5958,178x48,0,0{89x48,0,0,1,88x48,90,0,2}
-window	0	3	0	:-	d040,178x48,0,0,3
-state	0	

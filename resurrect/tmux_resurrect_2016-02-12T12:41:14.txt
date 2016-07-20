@@ -1,6 +1,0 @@
-pane	0	1	:ssh	0	:-	1	:/Users/rlaney	0	Vim	:/usr/local/Cellar/macvim/7.4-95/MacVim.app/Contents/MacOS/Vim
-pane	0	1	:ssh	0	:-	2	:/Users/rlaney	1	ssh	:ssh 10.90.0.1
-pane	0	2	:zsh	1	:*	1	:/Users/rlaney	1	zsh	:
-window	0	1	0	:-	d0ff,238x58,0,0{119x58,0,0,5,118x58,120,0,6}
-window	0	2	1	:*	d161,238x58,0,0,4
-state	0	

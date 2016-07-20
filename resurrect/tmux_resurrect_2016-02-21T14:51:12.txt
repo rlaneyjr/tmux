@@ -1,9 +1,0 @@
-pane	0	1	:ssh	1	:*	1	:/Users/rlaney/scripts/autoexpect	0	zsh	:
-pane	0	1	:ssh	1	:*	2	:/Users/rlaney/scripts/autoexpect	1	ssh	:ssh ns1
-pane	0	2	:zsh	0	:-	1	:/Users/rlaney	1	zsh	:
-pane	0	2	:zsh	0	:-	2	:/Users/rlaney	0	Vim	:/usr/local/Cellar/macvim/7.4-95/MacVim.app/Contents/MacOS/Vim
-pane	0	3	:zsh	0	:	1	:/Users/rlaney	1	zsh	:
-window	0	1	1	:*	e9f1,238x58,0,0{119x58,0,0,10,118x58,120,0,12}
-window	0	2	0	:-	5101,238x58,0,0{119x58,0,0,6,118x58,120,0,7}
-window	0	3	0	:	d165,238x58,0,0,8
-state	0	

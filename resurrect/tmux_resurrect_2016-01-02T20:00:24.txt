@@ -1,3 +1,0 @@
-pane	0	1	:git	1	:*	1	:/Users/rlaney/Projects	1	git	:/usr/local/bin/git clone git://git.webkit.org/WebKit.git WebKit
-window	0	1	1	:*	d03d,178x48,0,0,0
-state	0	

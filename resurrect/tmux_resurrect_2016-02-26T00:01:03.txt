@@ -1,7 +1,0 @@
-pane	0	1	:mongo	0	:	1	:/Users/rlaney	1	mongo	:mongo
-pane	0	2	:Vim	0	:-	1	:/Users/rlaney/cheaters/cheaters/cheatsheets	1	Vim	:/usr/local/Cellar/macvim/7.4-97/MacVim.app/Contents/MacOS/Vim mongodb.html
-pane	0	3	:[tmux]	1	:*	1	:/Users/rlaney/DB/mongodb	1	zsh	:
-window	0	1	0	:	d03d,178x48,0,0,0
-window	0	2	0	:-	d03e,178x48,0,0,1
-window	0	3	1	:*	d03f,178x48,0,0,2
-state	0	

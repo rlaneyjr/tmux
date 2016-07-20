@@ -1,5 +1,0 @@
-pane	0	1	:zsh	1	:*	1	:/Users/rlaney/.dotfiles	1	zsh	:
-pane	0	2	:zsh	0	:-	1	:/Users/rlaney	1	zsh	:
-window	0	1	1	:*	ccfd,120x39,0,0,0
-window	0	2	0	:-	ccfe,120x39,0,0,1
-state	0	

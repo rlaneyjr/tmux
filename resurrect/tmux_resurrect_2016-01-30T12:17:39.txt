@@ -1,7 +1,0 @@
-pane	0	1	:Vim	0	:	1	:/Users/rlaney/cheaters/cheaters/cheatsheets/PacketLife	1	Vim	:/usr/local/Cellar/macvim/7.4-94/MacVim.app/Contents/MacOS/Vim convert.nfo
-pane	0	2	:zsh	0	:-	1	:/Users/rlaney/cheaters/cheaters/cheatsheets/PacketLife	1	zsh	:
-pane	0	3	:Vim	1	:*	1	:/Users/rlaney/cheaters/cheaters/cheatsheets/PacketLife/test	1	Vim	:/usr/local/Cellar/macvim/7.4-94/MacVim.app/Contents/MacOS/Vim info.nfo
-window	0	1	0	:	d03e,178x48,0,0,1
-window	0	2	0	:-	d03f,178x48,0,0,2
-window	0	3	1	:*	d041,178x48,0,0,4
-state	0	

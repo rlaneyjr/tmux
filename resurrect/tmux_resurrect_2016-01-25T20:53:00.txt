@@ -1,3 +1,0 @@
-pane	0	1	:Vim	1	:*	1	:/Users/rlaney	1	Vim	:/usr/local/Cellar/macvim/7.4-94/MacVim.app/Contents/MacOS/Vim .aliases
-window	0	1	1	:*	d03d,178x48,0,0,0
-state	0	
