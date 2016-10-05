@@ -1,0 +1,10 @@
+pane	0	1	:python2.7	1	:*	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/trigger	1	python2.7	:/Users/rlaney/.virtualenvs/NetEngineerONE/bin/python2.7 /Users/rlaney/.virtualenvs/NetEngineerONE/bin/gong dc4-gw01
+pane	0	2	:Vim	0	:-	1	:/Users/rlaney/Projects/NetEngineerONE	0	python2.7	:/Users/rlaney/.virtualenvs/NetEngineerONE/bin/python2.7 /Users/rlaney/.virtualenvs/NetEngineerONE/bin/ipython
+pane	0	2	:Vim	0	:-	2	:/Users/rlaney/Projects/NetEngineerONE/neteng/data	1	Vim	:/usr/local/Cellar/macvim/7.4-106/MacVim.app/Contents/MacOS/Vim tacacsrc.creds
+pane	1	1	:python2.7	1	:*	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/netbox	1	python2.7	:python ./manage.py runserver 0.0.0.0:8000 --insecure
+pane	1	2	:zsh	0	:-	1	:/Users/rlaney	1	zsh	:
+window	0	1	1	:*	d15d,238x58,0,0,0
+window	0	2	0	:-	d0fa,238x58,0,0{119x58,0,0,1,118x58,120,0,4}
+window	1	1	1	:*	d15f,238x58,0,0,2
+window	1	2	0	:-	d160,238x58,0,0,3
+state	0	

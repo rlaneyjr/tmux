@@ -1,0 +1,10 @@
+pane	0	1	:ssh	0	:	1	:/Users/rlaney/Projects/NetEngineerONE	0	zsh	:
+pane	0	1	:ssh	0	:	2	:/Users/rlaney/Projects/NetEngineerONE	1	ssh	:ssh admin@np-ssc-fw1
+pane	0	2	:Vim	0	:-	1	:/Users/rlaney	0	ssh	:ssh u22
+pane	0	2	:Vim	0	:-	2	:/Users/rlaney	1	Vim	:/usr/local/Cellar/macvim/7.4-106/MacVim.app/Contents/MacOS/Vim
+pane	0	3	:zsh	1	:*	1	:/Users/rlaney	0	ssh	:ssh etnoc@10.66.2.1
+pane	0	3	:zsh	1	:*	2	:/Users/rlaney	1	zsh	:
+window	0	1	0	:	d0f9,238x58,0,0{119x58,0,0,0,118x58,120,0,4}
+window	0	2	0	:-	50fb,238x58,0,0{119x58,0,0,1,118x58,120,0,5}
+window	0	3	1	:*	d0fd,238x58,0,0{119x58,0,0,3,118x58,120,0,6}
+state	0	

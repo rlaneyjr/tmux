@@ -1,0 +1,14 @@
+pane	0	1	:Vim	0	:	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/trigger/mycmds	1	Vim	:/usr/local/Cellar/macvim/7.4-104_1/MacVim.app/Contents/MacOS/Vim non-cisco.devs
+pane	0	1	:Vim	0	:	2	:/Users/rlaney/Projects/NetEngineerONE	0	python2.7	:/Users/rlaney/.virtualenvs/NetEngineerONE/bin/python2.7 /Users/rlaney/.virtualenvs/NetEngineerONE/bin/ipython
+pane	0	2	:ssh	0	:	1	:/Users/rlaney	1	ssh	:ssh u22
+pane	0	3	:zsh	0	:-	1	:/Users/rlaney/Projects/NetEngineerONE	1	zsh	:
+pane	0	4	:zsh	1	:*	1	:/Users/rlaney/Projects/NetEngineerONE	1	zsh	:
+pane	1	1	:ssh	0	:-	1	:/Users/rlaney	1	ssh	:ssh bj1
+pane	1	2	:ssh	1	:*	1	:/Users/rlaney	1	ssh	:ssh rh
+window	0	1	0	:	c7f9,238x56,0,0{119x56,0,0,1,118x56,120,0,4}
+window	0	2	0	:	c95f,238x56,0,0,2
+window	0	3	0	:-	c960,238x56,0,0,3
+window	0	4	1	:*	c962,238x56,0,0,5
+window	1	1	0	:-	c963,238x56,0,0,6
+window	1	2	1	:*	c964,238x56,0,0,7
+state	1	

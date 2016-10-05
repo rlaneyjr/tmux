@@ -1,0 +1,9 @@
+pane	0	1	:Vim	0	:	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/data	1	Vim	:/usr/local/Cellar/macvim/7.4-106/MacVim.app/Contents/MacOS/Vim het-netdevices.json
+pane	0	2	:zsh	0	:-	1	:/Users/rlaney/Projects/NetEngineerONE	1	zsh	:
+pane	0	3	:zsh	1	:*	1	:/Users/rlaney/Documents/WORK	1	zsh	:
+pane	1	1	:python2.7	1	:*	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/netbox	1	python2.7	:python ./manage.py runserver 0.0.0.0:8000 --insecure
+window	0	1	0	:	d15d,238x58,0,0,0
+window	0	2	0	:-	d15e,238x58,0,0,1
+window	0	3	1	:*	d161,238x58,0,0,4
+window	1	1	1	:*	d15f,238x58,0,0,2
+state	0	

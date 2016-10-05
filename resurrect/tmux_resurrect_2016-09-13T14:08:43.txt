@@ -1,0 +1,14 @@
+pane	1	1	:zsh	1	:*	1	:/Users/rlaney/Documents/WORK	0	zsh	:
+pane	1	1	:zsh	1	:*	2	:/Users/rlaney/Documents/WORK/Beaumont	1	zsh	:
+pane	1	2	:zsh	0	:-	1	:/Users/rlaney	1	zsh	:
+pane	2	1	:zsh	0	:-	1	:/Users/rlaney	1	zsh	:
+pane	2	2	:zsh	1	:*	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/trigger	1	zsh	:
+pane	3	1	:Vim	1	:*	1	:/Users/rlaney/Projects/NetEngineerONE/neteng	1	Vim	:/usr/local/Cellar/macvim/7.4-109/MacVim.app/Contents/MacOS/Vim /scripts/myupgrade.sh
+pane	3	2	:zsh	0	:-	1	:/Users/rlaney/Projects/NetEngineerONE/other/netbox	1	zsh	:
+window	1	1	1	:*	50fa,238x58,0,0{119x58,0,0,0,118x58,120,0,5}
+window	1	2	0	:-	d15e,238x58,0,0,1
+window	2	1	0	:-	d161,238x58,0,0,4
+window	2	2	1	:*	d160,238x58,0,0,3
+window	3	1	1	:*	d163,238x58,0,0,6
+window	3	2	0	:-	d164,238x58,0,0,7
+state	3	

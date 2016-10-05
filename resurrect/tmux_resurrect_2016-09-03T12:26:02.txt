@@ -1,0 +1,8 @@
+pane	0	1	:python2.7	0	:-	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/trigger/mycmds	0	Vim	:/usr/local/Cellar/macvim/7.4-106/MacVim.app/Contents/MacOS/Vim hasSSH.py
+pane	0	1	:python2.7	0	:-	2	:/Users/rlaney/Projects/NetEngineerONE	1	python2.7	:/Users/rlaney/.virtualenvs/NetEngineerONE/bin/python2.7 /Users/rlaney/.virtualenvs/NetEngineerONE/bin/ipython
+pane	0	2	:zsh	1	:*	1	:/Users/rlaney/cheaters	1	zsh	:
+pane	1	1	:zsh	1	:*	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/trigger	1	zsh	:
+window	0	1	0	:-	5955,178x48,0,0{89x48,0,0,0,88x48,90,0,4}
+window	0	2	1	:*	d03e,178x48,0,0,1
+window	1	1	1	:*	d03f,178x48,0,0,2
+state	0	

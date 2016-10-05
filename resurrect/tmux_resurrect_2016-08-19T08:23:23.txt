@@ -1,0 +1,4 @@
+pane	0	1	:tree	1	:*	1	:/usr/local/Cellar/python/2.7.12	1	tree	:tree
+less
+window	0	1	1	:*	d15d,238x58,0,0,0
+state	0	

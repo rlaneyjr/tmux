@@ -1,0 +1,10 @@
+pane	1	1	:ssh	1	:*	1	:/Users/rlaney	1	ssh	:ssh u22
+pane	1	2	:zsh	0	:-	1	:/Users/rlaney/Documents/WORK/Wiki-NOC	1	zsh	:
+pane	2	1	:Vim	1	:*	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/data	0	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim tacacsrc.creds
+pane	2	1	:Vim	1	:*	2	:/Users/rlaney/Projects/NetEngineerONE/neteng/trigger/mycmds	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim mycmds.py
+pane	2	2	:zsh	0	:-	1	:/Users/rlaney	1	zsh	:
+window	1	1	1	:*	d15d,238x58,0,0,0
+window	1	2	0	:-	d15f,238x58,0,0,2
+window	2	1	1	:*	d0fa,238x58,0,0{119x58,0,0,1,118x58,120,0,4}
+window	2	2	0	:-	d160,238x58,0,0,3
+state	1	

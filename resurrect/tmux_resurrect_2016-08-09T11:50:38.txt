@@ -1,0 +1,11 @@
+pane	0	1	:Vim	0	:	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/data/WORKIN	1	Vim	:/usr/local/Cellar/macvim/7.4-104_1/MacVim.app/Contents/MacOS/Vim sites
+pane	0	2	:telnet	0	:	1	:/Users/rlaney	1	telnet	:telnet 172.19.132.220
+pane	0	3	:Vim	0	:-	1	:/Users/rlaney	1	Vim	:/usr/local/Cellar/macvim/7.4-104_1/MacVim.app/Contents/MacOS/Vim
+pane	0	4	:zsh	1	:*	1	:	1	zsh	:sudo vim /private/etc/ftpd.conf
+pane	1	1	:sh	1	:*	1	:/Users/rlaney/Projects/NetEngineerONE	1	sh	:/bin/sh /Users/rlaney/.bin/goneteng
+window	0	1	0	:	c95d,238x56,0,0,0
+window	0	2	0	:	c95e,238x56,0,0,1
+window	0	3	0	:-	c964,238x56,0,0,7
+window	0	4	1	:*	c965,238x56,0,0,8
+window	1	1	1	:*	c963,238x56,0,0,6
+state	0	

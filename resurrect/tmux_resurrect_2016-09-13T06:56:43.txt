@@ -1,0 +1,7 @@
+pane	1	1	:Vim	1	:*	1	:/Users/rlaney/scripts/bin	1	Vim	:/usr/local/Cellar/macvim/7.4-108/MacVim.app/Contents/MacOS/Vim osx-for-hackers.sh
+pane	2	1	:zsh	1	:*	1	:/Users/rlaney	1	zsh	:
+pane	3	1	:python2.7	1	:*	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/netbox	1	python2.7	:python ./manage.py runserver 0.0.0.0:8000 --insecure
+window	1	1	1	:*	d15d,238x58,0,0,0
+window	2	1	1	:*	d15f,238x58,0,0,2
+window	3	1	1	:*	d160,238x58,0,0,3
+state	2	

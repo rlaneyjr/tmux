@@ -1,0 +1,6 @@
+pane	1	1	:Vim	0	:-	1	:/Users/rlaney/Projects/VIRL_Projects	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim neteng1.virl
+pane	1	1	:Vim	0	:-	2	:/Users/rlaney/Projects/VIRL_Projects	0	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim
+pane	1	2	:Vim	1	:*	1	:/Users/rlaney/Projects/NetEngineerONE	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim /Users/rlaney/.virtualenvs/NetEngineerONE/bin/gong
+window	1	1	0	:-	d0f8,238x58,0,0{119x58,0,0,0,118x58,120,0,2}
+window	1	2	1	:*	d15e,238x58,0,0,1
+state	1	

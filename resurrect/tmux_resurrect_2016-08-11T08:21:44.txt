@@ -1,0 +1,6 @@
+pane	0	1	:Vim	1	:*	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/data/WORKIN	1	Vim	:/usr/local/Cellar/macvim/7.4-104_1/MacVim.app/Contents/MacOS/Vim tenants.csv
+pane	0	2	:Vim	0	:-	1	:/Users/rlaney/Documents/WORK/Opmantek/DC4-Master_conf	0	Vim	:/usr/local/Cellar/macvim/7.4-104_1/MacVim.app/Contents/MacOS/Vim Customers.nmis
+pane	0	2	:Vim	0	:-	2	:/Users/rlaney/Documents/WORK/Opmantek/DC4-Poller_conf	1	Vim	:/usr/local/Cellar/macvim/7.4-104_1/MacVim.app/Contents/MacOS/Vim Customers.nmis
+window	0	1	1	:*	d15d,238x58,0,0,0
+window	0	2	0	:-	50fb,238x58,0,0{119x58,0,0,2,118x58,120,0,3}
+state	0	

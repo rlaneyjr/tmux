@@ -1,0 +1,6 @@
+pane	0	1	:Vim	0	:-	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/data/WORKIN	1	Vim	:/usr/local/Cellar/macvim/7.4-106/MacVim.app/Contents/MacOS/Vim update-tables.sql
+pane	0	2	:python2.7	1	:*	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/trigger/mycmds	0	Vim	:/usr/local/Cellar/macvim/7.4-106/MacVim.app/Contents/MacOS/Vim cmd
+pane	0	2	:python2.7	1	:*	2	:/Users/rlaney/Projects/NetEngineerONE/neteng/trigger	1	python2.7	:/Users/rlaney/.virtualenvs/NetEngineerONE/bin/python2.7 /Users/rlaney/.virtualenvs/NetEngineerONE/bin/ipython
+window	0	1	0	:-	d15d,238x58,0,0,0
+window	0	2	1	:*	50fd,238x58,0,0{119x58,0,0,1,118x58,120,0,9}
+state	0	

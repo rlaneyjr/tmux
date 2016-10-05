@@ -1,0 +1,8 @@
+pane	1	1	:python2.7	0	:-	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/netbox	1	python2.7	:python ./manage.py runserver 0.0.0.0:8000 --insecure
+pane	1	2	:zsh	1	:*	1	:/Users/rlaney/Projects/NetEngineerONE	1	zsh	:
+pane	2	1	:zsh	1	:*	1	:/Users/rlaney	0	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim Documents/WORK/ironport_move.nfo
+pane	2	1	:zsh	1	:*	2	:/Users/rlaney	1	zsh	:
+window	1	1	0	:-	c55d,238x55,0,0,0
+window	1	2	1	:*	c55f,238x55,0,0,2
+window	2	1	1	:*	c378,238x55,0,0{119x55,0,0,1,118x55,120,0,3}
+state	2	

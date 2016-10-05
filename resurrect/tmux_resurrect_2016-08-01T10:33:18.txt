@@ -1,0 +1,16 @@
+pane	0	1	:zsh	1	:*	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/trigger	1	zsh	:
+pane	0	2	:Vim	0	:	1	:/Users/rlaney/Projects/Opmantek/fix	1	Vim	:/usr/local/Cellar/macvim/7.4-104_1/MacVim.app/Contents/MacOS/Vim new_discovery.txt
+pane	0	3	:zsh	0	:-	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/data	1	zsh	:
+pane	1	1	:zsh	0	:-	1	:/Users/rlaney/Projects/trigger	1	zsh	:
+pane	1	2	:Vim	1	:*	1	:/Users/rlaney/DB	1	Vim	:/usr/local/Cellar/macvim/7.4-104_1/MacVim.app/Contents/MacOS/Vim nodes.json
+pane	1	2	:Vim	1	:*	2	:/Users/rlaney/DB	0	zsh	:
+pane	2	1	:Vim	0	:-	1	:/Users/rlaney/temp	1	Vim	:/usr/local/Cellar/macvim/7.4-104_1/MacVim.app/Contents/MacOS/Vim hipdev-docs
+pane	2	2	:ssh	1	:*	1	:/Users/rlaney/temp	1	ssh	:ssh 10.73.225.212
+window	0	1	1	:*	cd5d,238x57,0,0,0
+window	0	2	0	:	cd5e,238x57,0,0,1
+window	0	3	0	:-	cd5f,238x57,0,0,2
+window	1	1	0	:-	cd60,238x57,0,0,3
+window	1	2	1	:*	cc7d,238x57,0,0{119x57,0,0,4,118x57,120,0,5}
+window	2	1	0	:-	d163,238x58,0,0,6
+window	2	2	1	:*	d164,238x58,0,0,7
+state	1	

@@ -1,0 +1,11 @@
+pane	2	1	:zsh	1	:*	1	:/Users/rlaney/cheaters/NEW/pydoc	1	zsh	:
+pane	2	2	:zsh	0	:-	1	:/Users/rlaney/Documents/WORK/Beaumont/Configs	1	zsh	:
+pane	neteng	1	:cmdrunner	0	:-	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/trigger/cmdrunner/WORK	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim nxos-ios-runner.py
+pane	neteng	2	:data	1	:*	1	:/Users/rlaney/Projects/NetEngineerONE/pydocs	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim docs2pydoc.sh
+pane	neteng	3	:server	0	:	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/netbox	1	python2.7	:python ./manage.py runserver --insecure
+window	2	1	1	:*	68df,238x58,0,0,10
+window	2	2	0	:-	d162,238x58,0,0,5
+window	neteng	1	0	:-	d15d,238x58,0,0,0
+window	neteng	2	1	:*	d15e,238x58,0,0,1
+window	neteng	3	0	:	d15f,238x58,0,0,2
+state	neteng	

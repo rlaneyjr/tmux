@@ -1,0 +1,10 @@
+pane	1	1	:zsh	0	:-	1	:/Users/rlaney	0	ssh	:ssh u22
+pane	1	1	:zsh	0	:-	2	:/Users/rlaney	1	zsh	:
+pane	1	2	:zsh	1	:*	1	:/Users/rlaney	1	zsh	:
+pane	2	1	:Vim	1	:*	1	:/Users/rlaney/bin	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim SetupMAC.sh
+pane	2	2	:zsh	0	:-	1	:/Users/rlaney	1	zsh	:
+window	1	1	0	:-	4378,238x55,0,0{119x55,0,0,0,118x55,120,0,4}
+window	1	2	1	:*	c560,238x55,0,0,3
+window	2	1	1	:*	c55e,238x55,0,0,1
+window	2	2	0	:-	c55f,238x55,0,0,2
+state	2	

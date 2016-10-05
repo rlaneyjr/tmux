@@ -1,0 +1,12 @@
+pane	1	1	:zsh	1	:*	1	:/Users/rlaney	1	zsh	:
+pane	2	1	:zsh	1	:*	1	:/Users/rlaney/Projects/Opmantek	1	zsh	:
+pane	neteng	1	:cmdrunner	0	:-	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/trigger/cmdrunner	0	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim cmdrunner.py
+pane	neteng	1	:cmdrunner	0	:-	2	:/Users/rlaney/Projects/NetEngineerONE/neteng/trigger/cmdrunner	1	zsh	:
+pane	neteng	2	:data	1	:*	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/data/WORKIN	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim pull-nodes1.py
+pane	neteng	3	:server	0	:	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/netbox	1	python2.7	:python ./manage.py runserver --insecure
+window	1	1	1	:*	d163,238x58,0,0,6
+window	2	1	1	:*	d162,238x58,0,0,5
+window	neteng	1	0	:-	98c1,238x58,0,0{128x58,0,0,0,109x58,129,0,3}
+window	neteng	2	1	:*	d15e,238x58,0,0,1
+window	neteng	3	0	:	d15f,238x58,0,0,2
+state	neteng	

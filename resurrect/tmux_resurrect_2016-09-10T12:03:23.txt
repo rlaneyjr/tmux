@@ -1,0 +1,11 @@
+pane	1	1	:zsh	0	:-	1	:/Users/rlaney/Projects/NetEngineerONE/neteng	1	zsh	:
+pane	1	2	:zsh	1	:*	1	:/Users/rlaney/Projects/NetEngineerONE	1	zsh	:
+pane	2	1	:python2.7	0	:	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/netbox	1	python2.7	:python ./manage.py runserver 0.0.0.0:8000 --insecure
+pane	2	2	:zsh	0	:-	1	:	1	zsh	:sudo vim /private/etc/hosts
+pane	2	3	:zsh	1	:*	1	:/Users/rlaney	1	zsh	:
+window	1	1	0	:-	d15d,238x58,0,0,0
+window	1	2	1	:*	d15f,238x58,0,0,2
+window	2	1	0	:	d161,238x58,0,0,4
+window	2	2	0	:-	d162,238x58,0,0,5
+window	2	3	1	:*	d163,238x58,0,0,6
+state	2	

@@ -1,0 +1,5 @@
+pane	0	1	:Vim	1	:*	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/data/WORKIN	1	Vim	:/usr/local/Cellar/macvim/7.4-106/MacVim.app/Contents/MacOS/Vim dcim_sites-NO-HTV.csv
+pane	0	2	:psql	0	:-	1	:/Users/rlaney/Projects/NetEngineerONE	1	psql	:psql neteng1
+window	0	1	1	:*	d15d,238x58,0,0,0
+window	0	2	0	:-	d15e,238x58,0,0,1
+state	0	

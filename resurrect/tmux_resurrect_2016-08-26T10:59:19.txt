@@ -1,0 +1,12 @@
+pane	0	1	:zsh	0	:	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/data/WORKIN	0	Vim	:/usr/local/Cellar/macvim/7.4-106/MacVim.app/Contents/MacOS/Vim
+pane	0	1	:zsh	0	:	2	:/Users/rlaney/temp	1	zsh	:
+pane	0	2	:Vim	0	:-	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/trigger	0	Vim	:/usr/local/Cellar/macvim/7.4-106/MacVim.app/Contents/MacOS/Vim /Users/rlaney/Documents/WORK/sc9-gw02.cfg
+pane	0	2	:Vim	0	:-	2	:/Users/rlaney/Projects/NetEngineerONE/neteng/trigger	1	Vim	:/usr/local/Cellar/macvim/7.4-106/MacVim.app/Contents/MacOS/Vim /Users/rlaney/Documents/WORK/sc9-gw01.cfg
+pane	0	3	:Vim	0	:	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/trigger	1	Vim	:/usr/local/Cellar/macvim/7.4-106/MacVim.app/Contents/MacOS/Vim /Users/rlaney/Documents/WORK/dc4-gw01.cfg
+pane	0	3	:Vim	0	:	2	:/Users/rlaney/Projects/NetEngineerONE/neteng/trigger	0	Vim	:/usr/local/Cellar/macvim/7.4-106/MacVim.app/Contents/MacOS/Vim /Users/rlaney/Documents/WORK/dc4-gw02.cfg
+pane	0	4	:zsh	1	:*	1	:/Users/rlaney/Projects/NetEngineerONE/neteng	1	python2.7	:/Users/rlaney/.virtualenvs/NetEngineerONE/bin/python2.7 /Users/rlaney/.virtualenvs/NetEngineerONE/bin/acl -d dc4
+window	0	1	0	:	50fb,238x58,0,0{119x58,0,0,0,118x58,120,0,7}
+window	0	2	0	:-	d0f9,238x58,0,0{119x58,0,0,1,118x58,120,0,2}
+window	0	3	0	:	50ee,238x58,0,0{119x58,0,0,4,118x58,120,0,5}
+window	0	4	1	:*	d163,238x58,0,0,6
+state	0	

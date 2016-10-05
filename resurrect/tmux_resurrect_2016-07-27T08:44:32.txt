@@ -1,0 +1,19 @@
+pane	opssl	1	:batch1	0	:	1	:/Users/rlaney	1	ssh	:ssh root@10.90.4.35
+pane	opssl	1	:batch1	0	:	2	:/Users/rlaney	0	ssh	:ssh root@10.171.8.30
+pane	opssl	2	:batch2	0	:	1	:/Users/rlaney	1	ssh	:ssh root@10.70.0.37
+pane	opssl	2	:batch2	0	:	2	:/Users/rlaney	0	ssh	:ssh root@10.72.0.37
+pane	opssl	2	:batch2	0	:	3	:/Users/rlaney	0	ssh	:ssh root@10.192.1.75
+pane	opssl	3	:batch3	0	:!	1	:/Users/rlaney	1	ssh	:ssh root@10.196.8.75
+pane	opssl	3	:batch3	0	:!	2	:/Users/rlaney	0	ssh	:ssh root@10.196.8.76
+pane	opssl	3	:batch3	0	:!	3	:/Users/rlaney	0	ssh	:ssh root@10.196.8.137
+pane	opssl	4	:batch4	0	:-	1	:/Users/rlaney	1	ssh	:ssh root@10.72.0.30
+pane	opssl	4	:batch4	0	:-	2	:/Users/rlaney	0	ssh	:ssh root@10.72.0.31
+pane	opssl	4	:batch4	0	:-	3	:/Users/rlaney	0	ssh	:ssh root@10.70.0.34
+pane	opssl	5	:batch5	1	:*	1	:/Users/rlaney	0	ssh	:ssh root@10.72.0.96
+pane	opssl	5	:batch5	1	:*	2	:/Users/rlaney	1	ssh	:ssh root@10.72.0.34
+window	opssl	1	0	:	9ccf,238x58,0,0[238x28,0,0,0,238x29,0,29,5]
+window	opssl	2	0	:	b8d4,238x58,0,0[238x18,0,0,1,238x18,0,19,6,238x20,0,38,7]
+window	opssl	3	0	:!	b8e1,238x58,0,0[238x18,0,0,2,238x18,0,19,8,238x20,0,38,9]
+window	opssl	4	0	:-	55ac,238x58,0,0[238x18,0,0,3,238x18,0,19,10,238x20,0,38,11]
+window	opssl	5	1	:*	4ed2,238x58,0,0[238x28,0,0,4,238x29,0,29,12]
+state	opssl	
