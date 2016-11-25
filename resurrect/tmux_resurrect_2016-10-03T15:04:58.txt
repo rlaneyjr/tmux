@@ -1,5 +1,0 @@
-pane	1	1	:Vim	1	:*	1	:/Volumes/OSX-Backup/Users/rlaney/.virtualenvs	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim fixvirtualenv.sh
-pane	1	2	:zsh	0	:-	1	:/Users/rlaney	1	zsh	:
-window	1	1	1	:*	c55d,238x55,0,0,0
-window	1	2	0	:-	c55e,238x55,0,0,1
-state	1	

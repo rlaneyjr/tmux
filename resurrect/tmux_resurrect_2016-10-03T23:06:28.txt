@@ -1,5 +1,0 @@
-pane	1	1	:zsh	1	:*	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/data/BACKUP	1	zsh	:
-pane	1	2	:zsh	0	:-	1	:/Users/rlaney	1	zsh	:
-window	1	1	1	:*	c83d,178x46,0,0,0
-window	1	2	0	:-	c83e,178x46,0,0,1
-state	1	

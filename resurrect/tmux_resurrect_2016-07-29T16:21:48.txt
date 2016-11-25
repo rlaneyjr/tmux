@@ -1,5 +1,0 @@
-pane	0	1	:Vim	0	:-	1	:/Users/rlaney/scripts/test-dir	1	Vim	:/usr/local/Cellar/macvim/7.4-104_1/MacVim.app/Contents/MacOS/Vim remote-rsync.py
-pane	0	2	:ssh	1	:*	1	:/Users/rlaney/NOTES	1	ssh	:ssh dc4-p
-window	0	1	0	:-	d15f,238x58,0,0,2
-window	0	2	1	:*	d160,238x58,0,0,3
-state	0	

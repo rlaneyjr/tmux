@@ -1,3 +1,0 @@
-pane	0	1	:Vim	1	:*	1	:/Users/rlaney/Projects/Opmantek/SSL	1	Vim	:/usr/local/Cellar/macvim/7.4-104_1/MacVim.app/Contents/MacOS/Vim dossl.sh
-window	0	1	1	:*	d15d,238x58,0,0,0
-state	0	

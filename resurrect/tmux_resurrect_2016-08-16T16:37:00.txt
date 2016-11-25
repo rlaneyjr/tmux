@@ -1,3 +1,0 @@
-pane	1	1	:zsh	1	:*	1	:/Users/rlaney/DB/dc4-mongo/scripts	1	zsh	:
-window	1	1	1	:*	d15f,238x58,0,0,2
-state	1	

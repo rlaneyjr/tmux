@@ -1,5 +1,0 @@
-pane	0	1	:Vim	1	:*	1	:/Users/rlaney/Projects/NetEngineerONE/neteng	1	Vim	:/usr/local/Cellar/macvim/7.4-104_1/MacVim.app/Contents/MacOS/Vim scripts/upgrade.sh
-pane	0	2	:sqlite3	0	:-	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/data	1	sqlite3	:sqlite3 neteng.db
-window	0	1	1	:*	d15d,238x58,0,0,0
-window	0	2	0	:-	d15e,238x58,0,0,1
-state	0	

@@ -1,8 +1,0 @@
-pane	0	1	:Vim	0	:-	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/data/WORKIN	1	Vim	:/usr/local/Cellar/macvim/7.4-106/MacVim.app/Contents/MacOS/Vim db-current1.txt
-pane	0	2	:Vim	1	:*	1	:/Users/rlaney	0	ssh	:ssh u22
-pane	0	2	:Vim	1	:*	2	:/Users/rlaney/Documents/WORK	1	Vim	:/usr/local/Cellar/macvim/7.4-106/MacVim.app/Contents/MacOS/Vim np-svv-fw1.cfg
-pane	0	3	:zsh	0	:	1	:/Users/rlaney	1	zsh	:
-window	0	1	0	:-	d15d,238x58,0,0,0
-window	0	2	1	:*	d0fa,238x58,0,0{119x58,0,0,1,118x58,120,0,4}
-window	0	3	0	:	d15f,238x58,0,0,2
-state	0	

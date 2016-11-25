@@ -1,9 +1,0 @@
-pane	0	1	:zsh	0	:-	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/data/WORKIN	1	zsh	:
-pane	0	2	:ssh	1	:*	1	:/Users/rlaney	1	ssh	:ssh ns1
-pane	1	1	:python2.7	0	:-	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/netbox	1	python2.7	:python ./manage.py runserver 0.0.0.0:8000 --insecure
-pane	1	2	:Vim	1	:*	1	:/Users/rlaney/Projects/neteng1/neteng/data	1	Vim	:/usr/local/Cellar/macvim/7.4-106/MacVim.app/Contents/MacOS/Vim docker-neteng1.sql
-window	0	1	0	:-	d15d,238x58,0,0,0
-window	0	2	1	:*	d15e,238x58,0,0,1
-window	1	1	0	:-	d15f,238x58,0,0,2
-window	1	2	1	:*	d160,238x58,0,0,3
-state	0	

@@ -1,5 +1,0 @@
-pane	1	1	:Vim	0	:-	1	:/Users/rlaney	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim bin/linkBatch.sh
-pane	1	2	:zsh	1	:*	1	:	1	zsh	:less
-window	1	1	0	:-	d15d,238x58,0,0,0
-window	1	2	1	:*	d15e,238x58,0,0,1
-state	1	

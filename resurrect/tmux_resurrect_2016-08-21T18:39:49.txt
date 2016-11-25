@@ -1,5 +1,0 @@
-pane	0	1	:Vim	0	:-	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/data/WORKIN	1	Vim	:/usr/local/Cellar/macvim/7.4-106/MacVim.app/Contents/MacOS/Vim update-tables.sql
-pane	0	2	:psql	1	:*	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/data/WORKIN	1	psql	:psql -o db-current1.txt neteng1 pguser
-window	0	1	0	:-	d15d,238x58,0,0,0
-window	0	2	1	:*	d15e,238x58,0,0,1
-state	0	

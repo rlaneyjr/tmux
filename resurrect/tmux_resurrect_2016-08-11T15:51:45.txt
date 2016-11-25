@@ -1,7 +1,0 @@
-pane	0	1	:zsh	0	:-	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/data/WORKIN	1	zsh	:
-pane	0	2	:Vim	1	:*	1	:/Users/rlaney/Documents/WORK/Opmantek/DC4-Poller_conf	1	Vim	:/usr/local/Cellar/macvim/7.4-104_1/MacVim.app/Contents/MacOS/Vim Nodes.nmis
-pane	2	1	:zsh	1	:*	1	:/Users/rlaney/Projects/NetEngineerONE	1	zsh	:
-window	0	1	0	:-	cd5d,238x57,0,0,0
-window	0	2	1	:*	cd5f,238x57,0,0,2
-window	2	1	1	:*	cd62,238x57,0,0,5
-state	0	

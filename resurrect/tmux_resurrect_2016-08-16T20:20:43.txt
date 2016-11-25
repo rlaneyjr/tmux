@@ -1,9 +1,0 @@
-pane	0	1	:zsh	0	:-	1	:/Users/rlaney/Projects/NetEngineerONE	1	zsh	:
-pane	0	2	:zsh	1	:*	1	:/Users/rlaney/.zsh/functions	1	zsh	:
-pane	1	1	:zsh	1	:*	1	:/Users/rlaney/Projects/Python/Head_First_Python	1	zsh	:
-pane	1	2	:grep	0	:-	1	:/Users/rlaney/Projects/NetEngineerONE/neteng/netbox/project-static	1	grep	:grep --color=auto filter-group
-window	0	1	0	:-	d03d,178x48,0,0,0
-window	0	2	1	:*	d03e,178x48,0,0,1
-window	1	1	1	:*	d03f,178x48,0,0,2
-window	1	2	0	:-	d040,178x48,0,0,3
-state	1	

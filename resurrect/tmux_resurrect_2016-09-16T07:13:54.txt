@@ -1,5 +1,0 @@
-pane	1	1	:ssh	1	:*	1	:/Users/rlaney	1	ssh	:ssh sw3
-pane	2	1	:zsh	1	:*	1	:/Users/rlaney	1	zsh	:
-window	1	1	1	:*	d15d,238x58,0,0,0
-window	2	1	1	:*	d15e,238x58,0,0,1
-state	1	
