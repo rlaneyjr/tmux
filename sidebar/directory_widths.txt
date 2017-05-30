@@ -1,1 +1,2 @@
 /usr/local/lib/python2.7/site-packages/powerline	40
+/Users/rlaney	40

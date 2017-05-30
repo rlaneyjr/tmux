@@ -1,0 +1,7 @@
+pane	1	1	:ssh	1	:*	1	:/Users/rlaney	1	ssh	:ssh imon9
+pane	1	1	:ssh	1	:*	2	:/Users/rlaney	0	ssh	:ssh imon9
+pane	2	1	:zsh	1	:*	1	:/Users/rlaney	1	zsh	:
+pane	2	1	:zsh	1	:*	2	:/Users/rlaney	0	zsh	:
+window	1	1	1	:*	c379,238x55,0,0{119x55,0,0,2,118x55,120,0,3}
+window	2	1	1	:*	c37c,238x55,0,0{119x55,0,0,4,118x55,120,0,5}
+state	1	
