@@ -1,8 +1,0 @@
-pane	1	1	:zsh	1	:*	1	:/Users/rlaney	1	zsh	:
-pane	2	1	:zsh	0	:-	1	:/Users/rlaney	1	zsh	:
-pane	2	2	:ssh	1	:*	1	:/Users/rlaney	1	ssh	:ssh sw2
-pane	2	2	:ssh	1	:*	2	:/Users/rlaney	0	ssh	:ssh sw4
-window	1	1	1	:*	c55d,238x55,0,0,0
-window	2	1	0	:-	c55e,238x55,0,0,1
-window	2	2	1	:*	437b,238x55,0,0{119x55,0,0,3,118x55,120,0,4}
-state	2	
