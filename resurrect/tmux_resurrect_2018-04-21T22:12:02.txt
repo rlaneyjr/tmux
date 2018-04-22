@@ -1,0 +1,10 @@
+pane	1	1	:zsh	1	:*	1	:/Users/rlaney	1	zsh	:
+pane	1	1	:zsh	1	:*	2	:/Users/rlaney	0	zsh	:
+pane	1	2	:zsh	0	:-	1	:/Users/rlaney/Dropbox (Personal)/MyDocs/WORK/upgrade	1	zsh	:
+pane	2	1	:zsh	1	:*	1	:/Users/rlaney/Dropbox (Personal)/MyDocs/WORK/upgrade	1	zsh	:
+pane	3	1	:zsh	1	:*	1	:/Users/rlaney/temp	1	zsh	:
+window	1	1	1	:*	4378,238x55,0,0{119x55,0,0,0,118x55,120,0,4}
+window	1	2	0	:-	c560,238x55,0,0,3
+window	2	1	1	:*	c55e,238x55,0,0,1
+window	3	1	1	:*	c55f,238x55,0,0,2
+state	3	
